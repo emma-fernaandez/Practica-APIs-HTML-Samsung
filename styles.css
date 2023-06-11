@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 30px auto;
+    background-color: #1b1b32;
+    color: #f5f6f7;
+}
+
+h1 {
+    font-size: 40px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+section {
+    width: 100vh;
+    margin: 0 auto;
+}
+
+div {
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+input {
+    text-align: center;
+}
+
+.video-section {
+    height: 400px;
+}
